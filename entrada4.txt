@@ -1,0 +1,3 @@
+z <- 000
+x <- read y
+write z + x + y

@@ -1,0 +1,8 @@
+psintatico\PParser$ProgramaContext.class
+psintatico\PParser$TermoContext.class
+psintatico\PBaseListener.class
+psintatico\PParser.class
+psintatico\PLexer.class
+psintatico\PParser$CmdContext.class
+psintatico\PListener.class
+psintatico\PParser$ExprContext.class
